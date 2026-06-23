@@ -1,2 +1,2 @@
 # Luvia
-Matrix home server provider
+Free LLM API for projects!
