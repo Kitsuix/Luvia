@@ -33,6 +33,10 @@ Its purpose is to provide:
 - private infrastructure backing the product
 - designed for a controlled hosted experience
 
+## Goal
+This prokect was so i can learn how AI systems work and how API's work as well and
+I am very intrested in AI and API's so I wanted to try to host one myself!
+
 ## Technology
 
 Built with:
