@@ -1,6 +1,6 @@
 ![LUVIA Banner](./Banner.png)
 
-LUVIA is a privately operated AI product built to deliver a polished,
+[LUVIA](https://luvia.chat) is a privately operated AI product built to deliver a polished,
 controlled, and modern interface around local model inference.
 
 It is designed as a complete user-facing experience rather than a raw model
