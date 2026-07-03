@@ -7,6 +7,7 @@ It is designed as a complete user-facing experience rather than a raw model
 endpoint, combining presentation, access control, monitoring, and product-level
 structure into a single cohesive platform.
 
+NOTE : This project was vibe codded with tweaks done by me manually to learn how to read the code and what it dose.
 ## About
 
 LUVIA focuses on making AI interaction feel intentional, reliable, and
